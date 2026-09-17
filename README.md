@@ -220,4 +220,4 @@ This repository serves as the official landing page for YouTube TV. The software
 **Get the most recent version of YouTube TV today!**
 
 ---
-**Last updated:** 2026-09-16 21:04:24 UTC
+**Last updated:** 2026-09-17 00:04:41 UTC
